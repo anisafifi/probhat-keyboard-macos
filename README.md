@@ -10,7 +10,7 @@
 
 ## লেআউট
 
-![প্রভাত লেআউট](https://bn.wikipedia.org/wiki/%E0%A6%9F%E0%A7%87%E0%A6%AE%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%9F:%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%A4_%E0%A6%95%E0%A7%80%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A7%87%E0%A6%86%E0%A6%89%E0%A6%9F)
+[পূর্ণ প্রভাত লেআউট এখানে দেখুন](https://bn.wikipedia.org/wiki/%E0%A6%9F%E0%A7%87%E0%A6%AE%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%9F:%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%A4_%E0%A6%95%E0%A7%80%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A7%87%E0%A6%86%E0%A6%89%E0%A6%9F)
 
 ## ইনস্টল (macOS Sequoia 15 পর্যন্ত পরীক্ষিত)
 
