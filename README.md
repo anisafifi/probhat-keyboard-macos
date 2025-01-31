@@ -10,7 +10,7 @@
 
 ## লেআউট
 
-![প্রভাত লেআউট](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/KB-Bengali-Probhat.svg/800px-KB-Bengali-Probhat.svg.png)
+![প্রভাত লেআউট](https://bn.wikipedia.org/wiki/%E0%A6%9F%E0%A7%87%E0%A6%AE%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%9F:%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%A4_%E0%A6%95%E0%A7%80%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A7%87%E0%A6%86%E0%A6%89%E0%A6%9F)
 
 ## ইনস্টল (macOS Sequoia 15 পর্যন্ত পরীক্ষিত)
 
@@ -40,12 +40,12 @@ curl https://raw.githubusercontent.com/anisafifi/probhat-keyboard-macos/main/uni
 4. তারপর `Keyboard Preferences` > `Shortcuts` > `Input Sources` এ যান এবং `Select the previous input source` অপশন চালু করুন ও শর্টকাট কী `⌘+Space` সেট করুন।
 5. এখন আপনি মেনুবারে ইনপুট মেথড তালিকায় `Probhat` দেখতে পাবেন।
 
-    ![প্রভাত ইনপুট](images/ime.png)
+    ![কিবোর্ড নির্বাচন](images/ime.png)
     
 6. যেকোনো টেক্সট এডিটর, ব্রাউজার, ফেসবুক বা অন্য কোথাও যান, `⌘+Space` চাপুন এবং প্রভাত লেআউটে বাংলা টাইপ করা শুরু করুন!
 
-    ![বাংলা ইনপুট](images/text.png)
+    ![লেখার নমুনা](images/text.png)
 
 ## লাইসেন্স
 
-এই কীবোর্ড লেআউটটি [MIT](http://mths.be/mit) লাইসেন্সের আওতায় উন্মুক্ত।
+এই কীবোর্ড লেআউটটি MIT লাইসেন্সের আওতায় উন্মুক্ত।
